@@ -2,6 +2,10 @@
 
 These are a collection of steganography related challenges for the UWE Falcons Team to complete at their own pace. The majority of these challenges revolve around steganography, including steg. within the context of malware analysis.
 
+# Flag Format
+
+All flags are given in the format `flag{FLAG_HERE}`. 
+
 # Resources 
 
 - https://ctf101.org/forensics/what-is-stegonagraphy/
