@@ -13,4 +13,4 @@ All flags are given in the format `flag{FLAG_HERE}`.
 - https://noob-atbash.github.io/CTF-writeups/nahamcon-20/stego/stego.html
 - https://medium.com/@FourOctets/ctf-tidbits-part-1-steganography-ea76cc526b40
 - https://steghide.sourceforge.net/
-- https://steghide.sourceforge.net/
+
