@@ -8,3 +8,5 @@ These are a collection of steganography related challenges for the UWE Falcons T
 - https://infosecwriteups.com/some-common-steganography-tools-for-ctfs-92e3de93f141
 - https://noob-atbash.github.io/CTF-writeups/nahamcon-20/stego/stego.html
 - https://medium.com/@FourOctets/ctf-tidbits-part-1-steganography-ea76cc526b40
+- https://steghide.sourceforge.net/
+- https://steghide.sourceforge.net/
