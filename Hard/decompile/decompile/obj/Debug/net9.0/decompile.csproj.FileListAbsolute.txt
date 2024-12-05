@@ -1,0 +1,15 @@
+D:\Github\UWE-Steg-Talk-Challenges\Hard\decompile\decompile\obj\Debug\net9.0\decompile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\UWE-Steg-Talk-Challenges\Hard\decompile\decompile\obj\Debug\net9.0\decompile.AssemblyInfoInputs.cache
+D:\Github\UWE-Steg-Talk-Challenges\Hard\decompile\decompile\obj\Debug\net9.0\decompile.AssemblyInfo.cs
+D:\Github\UWE-Steg-Talk-Challenges\Hard\decompile\decompile\obj\Debug\net9.0\decompile.csproj.CoreCompileInputs.cache
+D:\Github\UWE-Steg-Talk-Challenges\Hard\decompile\decompile\obj\Debug\net9.0\decompile.sourcelink.json
+D:\Github\UWE-Steg-Talk-Challenges\Hard\decompile\decompile\bin\Debug\net9.0\decompile.exe
+D:\Github\UWE-Steg-Talk-Challenges\Hard\decompile\decompile\bin\Debug\net9.0\decompile.deps.json
+D:\Github\UWE-Steg-Talk-Challenges\Hard\decompile\decompile\bin\Debug\net9.0\decompile.runtimeconfig.json
+D:\Github\UWE-Steg-Talk-Challenges\Hard\decompile\decompile\bin\Debug\net9.0\decompile.dll
+D:\Github\UWE-Steg-Talk-Challenges\Hard\decompile\decompile\bin\Debug\net9.0\decompile.pdb
+D:\Github\UWE-Steg-Talk-Challenges\Hard\decompile\decompile\obj\Debug\net9.0\decompile.dll
+D:\Github\UWE-Steg-Talk-Challenges\Hard\decompile\decompile\obj\Debug\net9.0\refint\decompile.dll
+D:\Github\UWE-Steg-Talk-Challenges\Hard\decompile\decompile\obj\Debug\net9.0\decompile.pdb
+D:\Github\UWE-Steg-Talk-Challenges\Hard\decompile\decompile\obj\Debug\net9.0\decompile.genruntimeconfig.cache
+D:\Github\UWE-Steg-Talk-Challenges\Hard\decompile\decompile\obj\Debug\net9.0\ref\decompile.dll
